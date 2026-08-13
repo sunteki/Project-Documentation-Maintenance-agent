@@ -1,0 +1,66 @@
+# 项目名称
+
+## 项目是什么
+
+<一句话说明项目解决什么问题、服务谁>
+
+## 当前状态
+
+- 状态：<draft / in-development / verified / deployed / paused>
+- 已完成：<简短列表>
+- 未完成：<链接到 known-issues.md 或任务>
+
+## 技术栈
+
+- 语言：
+- 框架：
+- 数据库：<没有则写 not-applicable>
+- 外部服务：<没有则写 not-applicable>
+
+## 环境要求
+
+- 操作系统：
+- 运行时和版本：
+- 必需工具：
+
+## 安装
+
+<可复制的安装命令>
+
+## 配置
+
+<只写环境变量名称、用途和来源，不写密钥值>
+
+## 启动
+
+<本地启动命令>
+
+## 测试和检查
+
+<测试、lint、build、smoke 命令>
+
+## 目录入口
+
+| 路径 | 用途 |
+|---|---|
+| <path> | <purpose> |
+
+## 常见问题
+
+<短说明；详细问题放 known-issues.md>
+
+## 详细文档
+
+- 架构：<实际路径>
+- 决策：<实际路径>
+- 数据库：<实际路径或 not-applicable>
+- 部署：<实际路径或 not-applicable>
+- 已知问题：<实际路径>
+
+## 文档状态
+
+- 状态：<draft / verified-current / changed-and-verified / pending>
+- 最后核验日期：<YYYY-MM-DD>
+- 来源会话：<session-id 或 not-applicable>
+- 验证证据：<测试、代码、配置、运行态或部署结果>
+- 遗留事项：<没有就写无>

@@ -1,0 +1,33 @@
+# Known Issues
+
+## KI-001：<简短标题>
+
+- 状态：<open / mitigated / blocked / resolved>
+- 严重程度：<low / medium / high / critical>
+- 发现日期：<YYYY-MM-DD>
+- 来源会话：<session-id 或 not-applicable>
+- 相关版本：<commit、tag 或 marker>
+
+### 问题
+
+<是什么>
+
+### 影响
+
+<影响谁、影响什么>
+
+### 复现条件
+
+<步骤、输入或环境>
+
+### 临时解决办法
+
+<没有就写无>
+
+### 下一步
+
+<责任人、计划或阻塞原因>
+
+### 证据
+
+<日志、测试、链接或文件路径；不要放敏感数据>

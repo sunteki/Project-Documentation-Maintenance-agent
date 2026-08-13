@@ -1,0 +1,52 @@
+# Architecture
+
+## 目标和边界
+
+- 系统解决什么问题：
+- 明确不负责什么：
+
+## 系统上下文
+
+<用户、当前系统和外部系统的关系>
+
+## 主要模块
+
+| 模块 | 职责 | 入口 | 依赖 | 当前状态 |
+|---|---|---|---|---|
+| <module> | <responsibility> | <entry> | <dependency> | <status> |
+
+## 关键数据流
+
+1. 输入：
+2. 处理：
+3. 持久化或外部调用：
+4. 输出：
+
+## 接口和边界
+
+- API、事件或队列：
+- 鉴权边界：
+- 超时、重试和失败边界：
+- 数据所有权：
+
+## 部署拓扑
+
+<只说明组件关系；详细步骤放 deployment.md>
+
+## 重要限制和技术债
+
+- 限制：
+- 影响：
+- 相关 known issue：
+
+## 相关决策
+
+- DEC-001：<链接到 decisions.md>
+
+## 文档状态
+
+- 状态：<draft / verified-current / changed-and-verified / pending>
+- 最后核验日期：<YYYY-MM-DD>
+- 来源会话：<session-id 或 not-applicable>
+- 验证证据：<代码、配置、测试或运行态>
+- 遗留事项：<没有就写无>
