@@ -6,7 +6,7 @@
 
 ## 当前状态
 
-- 状态：<draft / in-development / verified / deployed / paused>
+- 状态：<draft / in-development / locally-verified / deployed / live-verified / paused>
 - 已完成：<简短列表>
 - 未完成：<链接到 known-issues.md 或任务>
 
@@ -47,15 +47,15 @@
 
 ## 常见问题
 
-<短说明；详细问题放 known-issues.md>
+<没有就写 not-applicable；详细问题放 known-issues.md>
 
 ## 详细文档
 
-- 架构：<实际路径>
-- 决策：<实际路径>
+- 架构：<实际路径或 not-applicable>
+- 决策：<实际路径或 not-applicable>
 - 数据库：<实际路径或 not-applicable>
 - 部署：<实际路径或 not-applicable>
-- 已知问题：<实际路径>
+- 已知问题：<实际路径或 not-applicable>
 
 ## 文档状态
 
